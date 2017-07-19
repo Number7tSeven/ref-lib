@@ -1,2 +1,2 @@
 # ref-lib
-A libray of learning refernces
+A small libray of learning references that I have found useful.
