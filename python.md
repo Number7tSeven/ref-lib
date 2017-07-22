@@ -14,3 +14,5 @@ Link: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-
 
 ## PRAW: The Python Reddit API Wrapper
 Documentation and short tutorials for the PRAW module.
+
+Link: https://praw.readthedocs.io/en/latest/
