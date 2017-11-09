@@ -21,3 +21,8 @@ Link: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-
 Documentation and short tutorials for the PRAW module.
 
 Link: https://praw.readthedocs.io/en/latest/
+
+## SQLAlchemy Tutorials
+The official SQLAlchemy tutorials and documentation
+
+Link: http://docs.sqlalchemy.org/en/latest/
